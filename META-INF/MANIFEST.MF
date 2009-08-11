@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ncl30-help
+Bundle-SymbolicName: br.ufma.deinf.laws.ncleclipse.help;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Vendor: Laboratory of Advanced Web Systems
+Fragment-Host: br.ufma.deinf.laws.ncleclipse
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

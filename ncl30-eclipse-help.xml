@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="NCL Eclipse User Guide">
+	<topic label="NCL Eclipse"  href="html/ncl30-eclipse/index.html"> 
+		<topic label="Instalação e atualização" href="html/ncl30-eclipse/install.html"/>
+  <topic href="html/ncl30-eclipse/manual.html" label="Guia do usuário">
+  </topic> 
+	</topic>
+</toc>

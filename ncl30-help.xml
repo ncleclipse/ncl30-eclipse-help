@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="NCL (Nested Context Language)" topic="html/ncl/index.html">
+	<link toc="ncl30-eclipse-help.xml" />
+ <topic href="html/legal.html" label="Legal">
+ </topic>
+</toc>

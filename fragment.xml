@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<fragment>
+   <extension
+         point="org.eclipse.help.toc">
+      <toc
+            file="ncl30-eclipse-help.xml">
+      </toc>
+      <toc
+            file="ncl30-help.xml"
+            primary="true">
+      </toc>
+   </extension>
+
+</fragment>
